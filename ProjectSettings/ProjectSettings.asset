@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 37b4b0802f67bd445b770d0d3cbec434
+  productGUID: 6418b488b4dc78f43b531cb62c5757a4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -154,8 +154,12 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.DefaultCompany.VirtualPark
+=======
+  applicationIdentifier: {}
+>>>>>>> fab07f2 (fix: Main updated)
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -630,8 +634,13 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Template3D
   metroPackageVersion: 1.0.0.0
+=======
+  metroPackageName: Template_3D
+  metroPackageVersion: 
+>>>>>>> fab07f2 (fix: Main updated)
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -639,7 +648,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Template_3D
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: VirtualPark
+=======
+  metroTileShortName: 
+>>>>>>> fab07f2 (fix: Main updated)
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
